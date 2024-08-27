@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/withsammi/Leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/withsammi/Leetcode/tree/master/0018-4sum) |
 | [0048-rotate-image](https://github.com/withsammi/Leetcode/tree/master/0048-rotate-image) |
+| [0777-toeplitz-matrix](https://github.com/withsammi/Leetcode/tree/master/0777-toeplitz-matrix) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/withsammi/Leetcode/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/withsammi/Leetcode/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [2846-robot-collisions](https://github.com/withsammi/Leetcode/tree/master/2846-robot-collisions) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/withsammi/Leetcode/tree/master/0048-rotate-image) |
+| [0777-toeplitz-matrix](https://github.com/withsammi/Leetcode/tree/master/0777-toeplitz-matrix) |
 ## Stack
 |  |
 | ------- |
