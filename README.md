@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/withsammi/Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/withsammi/Leetcode/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/withsammi/Leetcode/tree/master/0048-rotate-image) |
+| [1630-count-odd-numbers-in-an-interval-range](https://github.com/withsammi/Leetcode/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 ## Matrix
 |  |
 | ------- |
