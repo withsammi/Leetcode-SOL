@@ -31,10 +31,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/withsammi/Leetcode/tree/master/0001-two-sum) |
+| [0782-jewels-and-stones](https://github.com/withsammi/Leetcode/tree/master/0782-jewels-and-stones) |
 ## String
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/withsammi/Leetcode/tree/master/0125-valid-palindrome) |
+| [0782-jewels-and-stones](https://github.com/withsammi/Leetcode/tree/master/0782-jewels-and-stones) |
 | [1894-merge-strings-alternately](https://github.com/withsammi/Leetcode/tree/master/1894-merge-strings-alternately) |
 ## Math
 |  |
