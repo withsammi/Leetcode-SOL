@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/withsammi/Leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/withsammi/Leetcode/tree/master/0018-4sum) |
 | [0048-rotate-image](https://github.com/withsammi/Leetcode/tree/master/0048-rotate-image) |
+| [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/withsammi/Leetcode/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/withsammi/Leetcode/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 ## Two Pointers
 |  |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/withsammi/Leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/withsammi/Leetcode/tree/master/0018-4sum) |
+| [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/withsammi/Leetcode/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/withsammi/Leetcode/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 ## Hash Table
 |  |
@@ -35,7 +37,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/withsammi/Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/withsammi/Leetcode/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/withsammi/Leetcode/tree/master/0048-rotate-image) |
-| [1630-count-odd-numbers-in-an-interval-range](https://github.com/withsammi/Leetcode/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 ## Matrix
 |  |
 | ------- |
