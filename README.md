@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/withsammi/Leetcode/tree/master/0018-4sum) |
 | [0048-rotate-image](https://github.com/withsammi/Leetcode/tree/master/0048-rotate-image) |
 | [0777-toeplitz-matrix](https://github.com/withsammi/Leetcode/tree/master/0777-toeplitz-matrix) |
+| [1333-sort-the-jumbled-numbers](https://github.com/withsammi/Leetcode/tree/master/1333-sort-the-jumbled-numbers) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/withsammi/Leetcode/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/withsammi/Leetcode/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/withsammi/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/withsammi/Leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/withsammi/Leetcode/tree/master/0018-4sum) |
+| [1333-sort-the-jumbled-numbers](https://github.com/withsammi/Leetcode/tree/master/1333-sort-the-jumbled-numbers) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/withsammi/Leetcode/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/withsammi/Leetcode/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/withsammi/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
