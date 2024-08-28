@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/withsammi/Leetcode/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/withsammi/Leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/withsammi/Leetcode/tree/master/0018-4sum) |
+| [0035-search-insert-position](https://github.com/withsammi/Leetcode/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/withsammi/Leetcode/tree/master/0048-rotate-image) |
 | [0777-toeplitz-matrix](https://github.com/withsammi/Leetcode/tree/master/0777-toeplitz-matrix) |
 | [0948-sort-an-array](https://github.com/withsammi/Leetcode/tree/master/0948-sort-an-array) |
@@ -97,4 +98,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/withsammi/Leetcode/tree/master/0948-sort-an-array) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/withsammi/Leetcode/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
