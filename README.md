@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/withsammi/Leetcode/tree/master/0048-rotate-image) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/withsammi/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/withsammi/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0162-find-peak-element](https://github.com/withsammi/Leetcode/tree/master/0162-find-peak-element) |
 | [0540-single-element-in-a-sorted-array](https://github.com/withsammi/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0777-toeplitz-matrix](https://github.com/withsammi/Leetcode/tree/master/0777-toeplitz-matrix) |
 | [0948-sort-an-array](https://github.com/withsammi/Leetcode/tree/master/0948-sort-an-array) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/withsammi/Leetcode/tree/master/0035-search-insert-position) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/withsammi/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/withsammi/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0162-find-peak-element](https://github.com/withsammi/Leetcode/tree/master/0162-find-peak-element) |
 | [0540-single-element-in-a-sorted-array](https://github.com/withsammi/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/withsammi/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Prefix Sum
