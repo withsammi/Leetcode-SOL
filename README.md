@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/withsammi/Leetcode/tree/master/0125-valid-palindrome) |
 | [0782-jewels-and-stones](https://github.com/withsammi/Leetcode/tree/master/0782-jewels-and-stones) |
 | [1894-merge-strings-alternately](https://github.com/withsammi/Leetcode/tree/master/1894-merge-strings-alternately) |
+| [2076-sum-of-digits-of-string-after-convert](https://github.com/withsammi/Leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2502-sort-the-people](https://github.com/withsammi/Leetcode/tree/master/2502-sort-the-people) |
 ## Math
 |  |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/withsammi/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2076-sum-of-digits-of-string-after-convert](https://github.com/withsammi/Leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/withsammi/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2846-robot-collisions](https://github.com/withsammi/Leetcode/tree/master/2846-robot-collisions) |
 ## Number Theory
