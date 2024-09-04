@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/withsammi/Leetcode/tree/master/0162-find-peak-element) |
 | [0540-single-element-in-a-sorted-array](https://github.com/withsammi/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0777-toeplitz-matrix](https://github.com/withsammi/Leetcode/tree/master/0777-toeplitz-matrix) |
+| [0906-walking-robot-simulation](https://github.com/withsammi/Leetcode/tree/master/0906-walking-robot-simulation) |
 | [0948-sort-an-array](https://github.com/withsammi/Leetcode/tree/master/0948-sort-an-array) |
 | [1333-sort-the-jumbled-numbers](https://github.com/withsammi/Leetcode/tree/master/1333-sort-the-jumbled-numbers) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/withsammi/Leetcode/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/withsammi/Leetcode/tree/master/0001-two-sum) |
 | [0782-jewels-and-stones](https://github.com/withsammi/Leetcode/tree/master/0782-jewels-and-stones) |
+| [0906-walking-robot-simulation](https://github.com/withsammi/Leetcode/tree/master/0906-walking-robot-simulation) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/withsammi/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2502-sort-the-people](https://github.com/withsammi/Leetcode/tree/master/2502-sort-the-people) |
 ## String
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0906-walking-robot-simulation](https://github.com/withsammi/Leetcode/tree/master/0906-walking-robot-simulation) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/withsammi/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/withsammi/Leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/withsammi/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
