@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/withsammi/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0777-toeplitz-matrix](https://github.com/withsammi/Leetcode/tree/master/0777-toeplitz-matrix) |
 | [0906-walking-robot-simulation](https://github.com/withsammi/Leetcode/tree/master/0906-walking-robot-simulation) |
+| [0907-koko-eating-bananas](https://github.com/withsammi/Leetcode/tree/master/0907-koko-eating-bananas) |
 | [0948-sort-an-array](https://github.com/withsammi/Leetcode/tree/master/0948-sort-an-array) |
 | [1333-sort-the-jumbled-numbers](https://github.com/withsammi/Leetcode/tree/master/1333-sort-the-jumbled-numbers) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/withsammi/Leetcode/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/withsammi/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/withsammi/Leetcode/tree/master/0162-find-peak-element) |
 | [0540-single-element-in-a-sorted-array](https://github.com/withsammi/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0907-koko-eating-bananas](https://github.com/withsammi/Leetcode/tree/master/0907-koko-eating-bananas) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/withsammi/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Prefix Sum
 |  |
