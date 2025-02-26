@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/withsammi/Leetcode/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/withsammi/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/withsammi/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0088-merge-sorted-array](https://github.com/withsammi/Leetcode-SOL/tree/master/0088-merge-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/withsammi/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/withsammi/Leetcode/tree/master/0162-find-peak-element) |
 | [0540-single-element-in-a-sorted-array](https://github.com/withsammi/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/withsammi/Leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/withsammi/Leetcode/tree/master/0018-4sum) |
+| [0088-merge-sorted-array](https://github.com/withsammi/Leetcode-SOL/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/withsammi/Leetcode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/withsammi/Leetcode-SOL/tree/master/0344-reverse-string) |
 | [1894-merge-strings-alternately](https://github.com/withsammi/Leetcode/tree/master/1894-merge-strings-alternately) |
@@ -45,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/withsammi/Leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/withsammi/Leetcode/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/withsammi/Leetcode/tree/master/0056-merge-intervals) |
+| [0088-merge-sorted-array](https://github.com/withsammi/Leetcode-SOL/tree/master/0088-merge-sorted-array) |
 | [0948-sort-an-array](https://github.com/withsammi/Leetcode/tree/master/0948-sort-an-array) |
 | [1333-sort-the-jumbled-numbers](https://github.com/withsammi/Leetcode/tree/master/1333-sort-the-jumbled-numbers) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/withsammi/Leetcode/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
