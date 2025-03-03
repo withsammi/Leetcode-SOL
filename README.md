@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/withsammi/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/withsammi/Leetcode/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/withsammi/Leetcode-SOL/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/withsammi/Leetcode-SOL/tree/master/0189-rotate-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/withsammi/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0777-toeplitz-matrix](https://github.com/withsammi/Leetcode/tree/master/0777-toeplitz-matrix) |
 | [0906-walking-robot-simulation](https://github.com/withsammi/Leetcode/tree/master/0906-walking-robot-simulation) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/withsammi/Leetcode-SOL/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/withsammi/Leetcode-SOL/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/withsammi/Leetcode/tree/master/0125-valid-palindrome) |
+| [0189-rotate-array](https://github.com/withsammi/Leetcode-SOL/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/withsammi/Leetcode-SOL/tree/master/0344-reverse-string) |
 | [1894-merge-strings-alternately](https://github.com/withsammi/Leetcode/tree/master/1894-merge-strings-alternately) |
 ## Sorting
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/withsammi/Leetcode/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/withsammi/Leetcode/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/withsammi/Leetcode/tree/master/0069-sqrtx) |
+| [0189-rotate-array](https://github.com/withsammi/Leetcode-SOL/tree/master/0189-rotate-array) |
 | [2155-find-missing-observations](https://github.com/withsammi/Leetcode/tree/master/2155-find-missing-observations) |
 | [2491-smallest-even-multiple](https://github.com/withsammi/Leetcode/tree/master/2491-smallest-even-multiple) |
 ## Matrix
