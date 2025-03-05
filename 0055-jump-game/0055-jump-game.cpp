@@ -1,14 +1,20 @@
 class Solution {
 public:
     bool canJump(vector<int>& nums) {
-        int farthest = 0; // Tracks the farthest index we can reach
         int n = nums.size();
-
+        vector<bool> isReachable(n, false);
+        isReachable[0] = true;
         for (int i = 0; i < n; i++) {
-            if (i > farthest) return false; // If we reach an unreachable index
-            farthest = max(farthest, i + nums[i]); // Update the farthest reach
-            if (farthest >= n - 1) return true; // If we can reach the end
+            if (isReachable[i] == false) break;
+            int maxSteps = nums[i];
+            for (int j = 1; j <= maxSteps; j++) {
+                int nextIndex = i + j;
+                if (nextIndex >= n) break;
+                isReachable[nextIndex] = true;
+                if (nextIndex == n - 1) return true;
+            }
         }
-        return true;
+        if (isReachable[n - 1] == true) return true;
+        else return false;
     }
 };
