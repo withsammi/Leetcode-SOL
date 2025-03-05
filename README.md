@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/withsammi/Leetcode/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/withsammi/Leetcode-SOL/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/withsammi/Leetcode-SOL/tree/master/0189-rotate-array) |
+| [0274-h-index](https://github.com/withsammi/Leetcode-SOL/tree/master/0274-h-index) |
 | [0540-single-element-in-a-sorted-array](https://github.com/withsammi/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0777-toeplitz-matrix](https://github.com/withsammi/Leetcode/tree/master/0777-toeplitz-matrix) |
 | [0906-walking-robot-simulation](https://github.com/withsammi/Leetcode/tree/master/0906-walking-robot-simulation) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/withsammi/Leetcode/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/withsammi/Leetcode-SOL/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/withsammi/Leetcode-SOL/tree/master/0169-majority-element) |
+| [0274-h-index](https://github.com/withsammi/Leetcode-SOL/tree/master/0274-h-index) |
 | [0948-sort-an-array](https://github.com/withsammi/Leetcode/tree/master/0948-sort-an-array) |
 | [1333-sort-the-jumbled-numbers](https://github.com/withsammi/Leetcode/tree/master/1333-sort-the-jumbled-numbers) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/withsammi/Leetcode/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/withsammi/Leetcode-SOL/tree/master/0169-majority-element) |
+| [0274-h-index](https://github.com/withsammi/Leetcode-SOL/tree/master/0274-h-index) |
 | [0948-sort-an-array](https://github.com/withsammi/Leetcode/tree/master/0948-sort-an-array) |
 ## Binary Search
 |  |
