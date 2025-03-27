@@ -1,14 +1,18 @@
 class Solution {
 public:
     bool isPalindrome(string s) {
-        string filteredString;
-        for(char c : s){
-            if(isalnum(c)){
-                filteredString += tolower(c);
+        string result;
+        for(char ch : s){
+            if(isalnum(ch)){
+                result += tolower(ch);
             }
         }
-        string temp = filteredString;
-        reverse(temp.begin(),temp.end());
-        return temp == filteredString;
+        int n = result.size();
+        for(int i=0; i<n/2; i++){
+            if(result[i]!=result[n-i-1]){
+                return false;
+            }
+        }
+        return true;
     }
 };
